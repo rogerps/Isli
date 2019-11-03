@@ -1,3 +1,3 @@
 # Isli
 
-Projeto Isli - Educação Para todos
+Projeto Isli - Educação para todos
