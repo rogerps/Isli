@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isli", "Isli\Isli.csproj", "{855D53D7-08F0-4284-9FA7-B8ECD60F090B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isli_DAL", "isli_DAL\isli_DAL.csproj", "{F206780A-BCF8-40FD-B2E3-E8BF853BF41E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryIsli", "ClassLibraryIsli\ClassLibraryIsli.csproj", "{3DC4A9A1-9336-4E63-86D1-A1D538517900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F206780A-BCF8-40FD-B2E3-E8BF853BF41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F206780A-BCF8-40FD-B2E3-E8BF853BF41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F206780A-BCF8-40FD-B2E3-E8BF853BF41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC4A9A1-9336-4E63-86D1-A1D538517900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC4A9A1-9336-4E63-86D1-A1D538517900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC4A9A1-9336-4E63-86D1-A1D538517900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC4A9A1-9336-4E63-86D1-A1D538517900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
